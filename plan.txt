@@ -1,0 +1,17 @@
+Backtesting:
+1. What do we need to backtest a strategy.
+2. Why python.
+3. Development environment (IDEs, notebooks).
+4. Backtesting with a loop.
+5. Why backtesting with vectors.
+6. VectorBT library.
+7. What do we need to setup vectorbt backtest.
+8. Backtesting of the TORB Strategy.
+9. Understanding the result.
+10. Optimization of the TORB strategy.
+
+Advanced concepts in backtesting:
+1. Market noize and overfitting.
+2. In-sample / out-of-sample data.
+3. Permutations and p-value.
+4. Perfect scenario.
